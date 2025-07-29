@@ -1,3 +1,5 @@
+see: http://spring-guides.marcuschiu.com/spring-data/elasticsearch/spring-boot-elasticsearch.html
+
 # Run Elasticsearch
 ```shell
 docker run \
